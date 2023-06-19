@@ -16,7 +16,7 @@
   2. Test Driven Development - TDD.
   3. CRUD API.
   4. API RESTfull.
-  5. MySQL comands.
+  5. MySQL comands and normalization.
 
 ## 🛠️ Technologies:
   1. Node
